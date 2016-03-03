@@ -1,0 +1,1 @@
+import 'meteor/package-with-peer-npm';
