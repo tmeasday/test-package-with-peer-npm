@@ -1,6 +1,7 @@
 allow-deny@1.0.1-beta.12
 autopublish@1.0.4
 autoupdate@1.2.5-beta.12
+avital:mocha@2.1.0_8
 babel-compiler@6.5.0-beta.12
 babel-runtime@0.1.5-beta.12
 base64@1.0.5-beta.12
@@ -55,7 +56,6 @@ ordered-dict@1.0.4
 package-with-peer-npm@0.0.1
 practicalmeteor:chai@2.1.0_1
 practicalmeteor:loglevel@1.2.0_2
-practicalmeteor:mocha@2.1.0_7
 practicalmeteor:mocha-core@0.1.4
 practicalmeteor:sinon@1.14.1_2
 promise@0.5.2-beta.12
